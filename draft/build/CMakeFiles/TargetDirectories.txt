@@ -1,0 +1,3 @@
+/home/wsp/cnpy/draft/build/CMakeFiles/edit_cache.dir
+/home/wsp/cnpy/draft/build/CMakeFiles/rebuild_cache.dir
+/home/wsp/cnpy/draft/build/CMakeFiles/draft.dir

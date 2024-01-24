@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wsp/cnpy/draft/draft.cc
+iostream
+-
+string
+-
+memory
+-
+chrono
+-
+thread
+-
+mutex
+-
+vector
+-
+
